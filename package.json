@@ -1,0 +1,19 @@
+{
+  "name": "dojo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./app/tests/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-morenogr/dojo-node.git"
+  },
+  "author": "andres-morenogr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres-morenogr/dojo-node/issues"
+  },
+  "homepage": "https://github.com/andres-morenogr/dojo-node#readme"
+}
