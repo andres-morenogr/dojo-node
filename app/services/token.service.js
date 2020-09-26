@@ -17,8 +17,8 @@ const getToken = async() => {
           "https://accounts.spotify.com/api/token",
           qs.stringify({
               grant_type: "client_credentials",
-              client_id: "8ed0f675fa0c47509bd74b46f4ca1ede",
-              client_secret: "1ad3d73c11c14aafa75ee00267ca5fab",
+              client_id: "",
+              client_secret: "",
           }),
           config
       )
